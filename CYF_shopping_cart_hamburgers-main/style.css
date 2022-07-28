@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playball&display=swap");
+
+h1 {
+  font-family: "Playball", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: green;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: linear-gradient(0.75turn, #3f87a6, #ebf8e1, #f69d3c);
+  text-font:Serif;
+}
+
+.btn {
+  border-radius: 10px;
+  color: blue;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: .5px;
+  margin: 0;
+  text-transform: uppercase;
+}
